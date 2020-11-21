@@ -17,7 +17,8 @@
     ],
     "public": true,
     "supportedTargets": [
-        "calliopemini"
+        "calliopemini",
+        "microbit"
     ],
     "preferredEditor": "tsprj"
 }
